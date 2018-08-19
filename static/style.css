@@ -1,0 +1,39 @@
+/* banner at the top of the page */
+.banner{
+    background-color: rgb(128,128,128);
+
+}
+
+h1.banner_txt {
+    text-align: center;
+    color: rgb(255,255,255);
+}
+
+#scrape_btn {
+    text-align: center;
+}
+
+#first_text {
+  background-color: rgb(127,255,212);
+}
+
+.container-fluid {
+    background: rgb(216,216,216);
+    outline: .01px double black;
+    padding: 5%;
+}
+
+.data-box {
+    background: rgb(255,255,255);
+    outline: .1px double black;
+    padding: 5%;
+}
+
+figcaption.hemisphere_caption{
+    text-align: center;
+}
+
+img {
+    width: 100%;
+    height: auto;
+}
